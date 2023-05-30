@@ -1,0 +1,12 @@
+.home {
+    display: flex;
+}
+
+@media (max-width: 820px) {
+    .home {
+        flex-direction: column;
+    }
+    .posts {
+        justify-content: center;
+    }
+}
