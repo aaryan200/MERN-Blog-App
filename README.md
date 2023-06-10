@@ -6,7 +6,7 @@ Blog application using MERN
 git clone https://github.com/aaryan200/MERN-Blog-App.git
 cd MERN-Blog-App
 ```
-* Change directory to `api` and change `MONGO_URL` in `index.js` with the link to your MONGODB cluster
+* Change directory to `api` and change `MONGO_URL` in `index.js` with the link to your MongoDB cluster
 * Install dependencies and then start the backend
 ```bash
 npm i
